@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UC Merced, Department of Political Science"
-date: 2024
+date: 2024-1-1
 location: "City, Country"
 ---
 
