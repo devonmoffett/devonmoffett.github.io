@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Working Papers"
 permalink: /working/
 author_profile: true
 ---
