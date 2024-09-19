@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Political Geography"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "UC Merced, Department of Political Science"
+date: 2024
 location: "City, Country"
 ---
 
