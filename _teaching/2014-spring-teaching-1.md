@@ -8,13 +8,9 @@ date: 2024-1-1
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Study of how politics derives from earth’s physical features as well as how geography becomes political. Additionally covers the fundamentals of the tools used by political scientists to identify and visualize these interrelationships.
 
-Heading 1
+Syllabus
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+<embed src="https://devonmoffett.github.io/files/Political Geography - Spring 2024.pdf" type="application/pdf" width="100%" height="100%" />
